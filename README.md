@@ -1,4 +1,5 @@
 # hello-world
 description
 
-hi i am pranay i am so excited to learn more about github cause iam being bored staying home due to covid 19
+(Hi I am pranay, I am so excited to learn more about Github cause I am being bored staying home due to Covid-19)
+It's Me again after almost an year, editing my first trail repository.
